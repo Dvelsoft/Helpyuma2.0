@@ -1,0 +1,12 @@
+html,body,#Title,#Instructions,#Game,#Loading{
+    width:100%;
+    height:100%;
+    margin:auto;
+    padding:0;
+    text-align: center;
+    cursor: url(../MANO.png),pointer;
+      }
+button{
+    background:none;
+    border:none;
+      }
